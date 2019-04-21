@@ -17,3 +17,4 @@ Creating a new branch is quick & simple.
 
 new branch featurel
 
+Git is a free software ...
